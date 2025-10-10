@@ -1,6 +1,6 @@
 ---
 title: outer join
-published: 2025-10-10
+published: 2025-10-11
 tags: [mysql]
 category: mysql
 description: 三种join连接

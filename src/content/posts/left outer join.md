@@ -1,6 +1,6 @@
 ---
 title: left outer join
-published: 2025-10-10
+published: 2025-10-11
 tags: [mysql]
 image: "https://image.521500.xyz/file/sql_joins_rectangular(1).png"
 description: 左连接例题
