@@ -1,3 +1,14 @@
+---
+title: java相关知识点
+published: 2025-10-28
+tags: [java,面试]
+description: java相关知识点
+category: 面试
+draft: false
+---
+
+
+
 # 一. 什么是 Java SE 与 Java EE（Jakarta EE）
 
 Java 生态通常分为两个层次：**Java SE**（Standard Edition，标准版）与 **Java EE**（现更名为 *Jakarta EE*，企业版）。二者既有分工又有联系：SE 是基础语言与核心类库；EE 在 SE 之上提供企业级应用所需的规范与框架。
@@ -391,7 +402,7 @@ javac -version
   如果你希望我举例展示 **Java 或 Python 的字节码内容及其执行流程**，我可以帮你生成具体代码示例。是否需要？
 
 
-  
+
 
 - **前向/后向**：**classfile 版本 ≤ 运行时版本**；否则会报 *Unsupported class file version*。
 
@@ -443,7 +454,6 @@ javac -version
 
 
   
-
 
 
 
